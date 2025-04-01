@@ -1,8 +1,8 @@
 # CSC 4035 Lab 3: CSS3 & Responsive Web Design
 
 ## Group Members
-- Benson Chibwe 2021474887
-- 
+- Benson Chibwe
+- Musa Chokwe
 
 ## Project Description
 A multi-page responsive website demonstrating CSS3 features including Flexbox, Grid, animations, and media queries.
